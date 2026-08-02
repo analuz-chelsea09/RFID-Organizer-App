@@ -12,4 +12,6 @@ Creating personal access tokens: https://support.airtable.com/docs/creating-pers
 
 Finding IDs on airtable: https://support.airtable.com/docs/finding-airtable-ids
 
+Onshape CAD link for printing: https://cad.onshape.com/documents/ffd1a61f58b879072f483033/w/ffd1fc3937c05ca13a580548/e/2a884cc42d4c639c8a5991f9
+
 Enjoy!
