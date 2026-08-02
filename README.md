@@ -6,8 +6,9 @@ The application was developed with Flutter and programmed primarily in Dart, all
 
 The code also has a section in the main.dart file that enables the app to be linked to an airtable base. In order to link your app, you will need to create your own base on airtable, create a custom access key for the base, and also retrieve the base ID. Refer to the files below for help:
 
-  Template for the airtable base: https://airtable.com/invite/l?inviteId=invQjnypWvs96t5Gj&inviteToken=8d79552013118afa1949b2552f5602eab3c40028372f7e8df6c882b58a8ac1d6&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
-  Creating personal access tokens: https://support.airtable.com/docs/creating-personal-access-tokens 
-  Finding IDs on airtable: https://support.airtable.com/docs/finding-airtable-ids
+Template for the airtable base: https://airtable.com/invite/l?inviteId=invQjnypWvs96t5Gj&inviteToken=8d79552013118afa1949b2552f5602eab3c40028372f7e8df6c882b58a8ac1d6&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+  
+Creating personal access tokens: https://support.airtable.com/docs/creating-personal-access-tokens 
+Finding IDs on airtable: https://support.airtable.com/docs/finding-airtable-ids
 
 Enjoy!
