@@ -1,0 +1,10 @@
+^C:\USERS\ANALUZ FERRER\ONEDRIVE\DESKTOP\DEVELOPMENT\RFID_ORGANIZER_APP_BWSI\BUILD\WINDOWS\X64\CMAKEFILES\B78DE43EBED9C14CBCAC8E3421783F6B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/AnaLuz Ferrer/OneDrive/Desktop/Development/rfid_organizer_app_bwsi/windows" "-BC:/Users/AnaLuz Ferrer/OneDrive/Desktop/Development/rfid_organizer_app_bwsi/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/AnaLuz Ferrer/OneDrive/Desktop/Development/rfid_organizer_app_bwsi/build/windows/x64/rfid_organizer_app_bwsi.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

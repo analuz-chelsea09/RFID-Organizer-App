@@ -1,0 +1,1 @@
+ C:\\Users\\AnaLuz\ Ferrer\\OneDrive\\Desktop\\Development\\rfid_organizer_app_bwsi\\.dart_tool\\flutter_build\\5b827a0730dcf8c12b3660b86ab680c2\\dart_build_result.json: 

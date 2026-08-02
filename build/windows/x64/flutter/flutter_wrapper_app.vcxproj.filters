@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B760C270-543A-3BCD-9D9D-16D64BAFAA53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6519D072-675C-3F0B-9EA7-7BEB72BC2553}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

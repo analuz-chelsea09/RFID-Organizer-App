@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\AnaLuz Ferrer\OneDrive\Desktop\Development\rfid_organizer_app_bwsi\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6519D072-675C-3F0B-9EA7-7BEB72BC2553}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
